@@ -1,7 +1,5 @@
 # Application-of-ISODATA-Algorithm-using-IRIS-Dataset
 # Classification of Iris flower. Each row of the table represents species and dimensions of its botanical parts, sepal and petal, in centimeters.
-#  Application of ISODATA Model using IRIS Dataset
-# Classification of Iris flower. Each row of the table represents species and dimensions of its botanical parts, sepal and petal, in centimeters.
 # Import libraries 
 import pandas as pd
 import numpy as np
